@@ -1,6 +1,8 @@
 Deedy-Resume
 =========================
 
+NOTE: Online editor: https://www.overleaf.com/project/607b602e8b0e8efdb8a42fb1
+
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
 As of **v1.2**, there is an option to choose from two templates:
 
