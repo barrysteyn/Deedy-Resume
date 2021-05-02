@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Itziar}{López Noble}{ \urlstyle{same} 6074 Larchmont Dr, San Jose CA 05123 | \href{mailto:ichispain@gmail.com}{ichispain@gmail.com} |
-650.669.7555 \\ US Visa Status: Permanent Residence (Green Card) \\
+\namesection{Itziar}{López Noble}{ \urlstyle{same} 6074 Larchmont Dr, San Jose CA 95123 | \href{mailto:ichispain@gmail.com}{ichispain@gmail.com} |
+650.669.7555 \\ \textbf{US Visa Status}: Permanent Residence (Green Card) \\
  LinkedIn: \href{https://www.linkedin.com/in/itziar-lópez-noble-9bb27723/}{https://www.linkedin.com/in/itziar-lópez-noble-9bb27723}
 }
 
@@ -116,7 +116,6 @@ History of Furniture\\History of Painting\\History of Tapestry and Rug\\History 
 
 \subsection{Undergraduate}
 Ancient History\\Medieval History\\Physical Geography\\Prehistory\\Modern History\\Contemporary History\\Archeology\\History of Art\\History of the World Today\\Paleography\\Epigraphy
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
 Unix Tools and Scripting \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -125,7 +124,7 @@ Unix Tools and Scripting \\
 
 \section{Skills}
 \subsection{Languages}
-Spanish (Native) \textbullet{}   English (fluent) \textbullet{} French (fluent) \
+Spanish (native) \textbullet{}   English (fluent) \textbullet{} French (proficient) \
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -148,10 +147,10 @@ Spanish (Native) \textbullet{}   English (fluent) \textbullet{} French (fluent) 
 \location{Jan 2015 - Jan 2017 | \href{http://itziarlopez.github.io/}{http://itziarlopez.github.io} | Vancouver, Canada}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Spanish Lessons for native English speaking Children, Teens and Adults.
+\item Spanish Lessons for native English speaking Children, Teens, Adults and Corporations.
 \item Customized lessons adapted to the students needs.
-\item Preparation for UBC  and for DELE Examinations.
-\item Conversational Spanish for pre- intermediate and intermediate levels.
+\item Preparation for DELE Examinations.
+\item Conversational Spanish for advanced and intermediate levels.
 \end{tightemize}
 \sectionsep
 
@@ -203,6 +202,8 @@ Spanish (Native) \textbullet{}   English (fluent) \textbullet{} French (fluent) 
 \item Valuations assistant for the London main office.
 \end{tightemize}
 \sectionsep
+\runsubsection{Zara}
+\descript{| Ladies wear deputy manager }
+\location{Jan 2005 - Jun 2006 | London, England}
 \end{minipage} 
 \end{document}  \documentclass[]{article}
-
